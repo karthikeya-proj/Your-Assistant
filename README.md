@@ -205,6 +205,7 @@ data/*.pdf
 * Streamlit
 
 -------
-### Built with ❤️ by Karthikeya
+### Built with ❤️ by Yaswanth
+
 
 
